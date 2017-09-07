@@ -5,7 +5,7 @@ description: "Kube-Dashbboard"
 tags: [Kubernetes, Docker]
 ---
 
-# Kubernetes Tutorials (11)
+# Kubernetes Tutorials (12)
 
 ## Deploy Kube-Dashboard Addon
 
