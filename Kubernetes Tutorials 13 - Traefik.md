@@ -7,7 +7,7 @@ tags: [Kubernetes, Docker]
 
 # Kubernetes Tutorials (13)
 
-## Deploy Traefik Ingress
+## Deploy Traefik Ingress Controller
 
 Create `traefik.yaml`.
 
