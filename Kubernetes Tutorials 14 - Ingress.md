@@ -5,7 +5,7 @@ description: "Ingress"
 tags: [Kubernetes, Docker]
 ---
 
-# Kubernetes Tutorials (13)
+# Kubernetes Tutorials (14)
 
 ## Deploy Ingress
 
