@@ -240,4 +240,4 @@ Then try to access `http://kubernetes-dashboard.newegg.org`
 
 Now we success deployed our second ingress resource.
 
-You can create as many ingress resource as you like with just one IP address.
+You can create as many ingress resource as you like with just one IP address. 
